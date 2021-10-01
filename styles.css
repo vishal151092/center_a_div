@@ -1,0 +1,20 @@
+body {
+  background: orange;
+}
+.parent {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.myDiv {
+  border: 1px solid red;
+  width: 20px;
+  /*display: flex;
+  flex-direction: column;*/
+  /*position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);*/
+}
